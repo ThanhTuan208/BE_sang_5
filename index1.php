@@ -1,2 +1,2 @@
 <?php
-echo "Dieu Huong la con cho";
+echo "Be sang 5";
